@@ -31,4 +31,12 @@ Test Types
   UI Testing
   Positive Testing
   Negative Testing
+
+Deliverables
+-----------
+  Test Cases
+  Bug Reports
+  Test Summary
+  
+  
   
