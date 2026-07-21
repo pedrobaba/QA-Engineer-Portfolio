@@ -1,8 +1,4 @@
 # Day 4 – Test Plan
-**Date:** 21 July 2026  
-**Topic:** SDLC Models  
-**Estimated Study Time:** 4 Hours  
-**Status:** ✅ Completed
 -------------------
 
 ## What is a Test Plan?
