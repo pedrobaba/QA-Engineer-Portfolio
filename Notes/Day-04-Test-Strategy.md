@@ -1,4 +1,8 @@
 # Day 4 – Test Strategy
+**Date:** 21 July,  2026  
+**Topic:** SDLC Models  
+**Estimated Study Time:** 4 Hours  
+**Status:** ✅ Completed
 
 ## What is a Test Strategy?
 
