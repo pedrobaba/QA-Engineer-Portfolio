@@ -36,7 +36,12 @@ Build a professional QA portfolio over 90 days and become job-ready for Software
 ---
 ## Progress
 
-- ✅ Day 1 SDLC & STLC
-- ✅ Day 2 - Test Scenarios & Test Cases
+## Progress
+
+- ✅ Day 1 – Introduction to Software Testing
+- ✅ Day 2 – Test Scenarios & Test Cases
+- ✅ Day 3 – Bug Reporting & Bug Life Cycle
+- ✅ Day 4 – Test Planning & SDLC Models
+- ✅ Day 5 – Test Design Techniques
 ---
 ⭐ Follow my progress as I continue to add projects, test cases, automation scripts, and bug reports.
