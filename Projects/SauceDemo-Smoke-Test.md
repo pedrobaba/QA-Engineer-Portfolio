@@ -6,7 +6,7 @@
 **Tester:** Pedro  
 **Date:** July 2026  
 **Browser:** Google Chrome (Latest Version)  
-**Operating System:** Windows 10/11  
+**Operating System:** Windows 10 
 
 ---
 
