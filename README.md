@@ -80,7 +80,7 @@ More practical QA projects will be added as my learning progresses.
 
 # 🎯 Learning Goal
 
-My objective is to build a professional QA portfolio that demonstrates practical software testing skills and prepares me for opportunities as a QA Engineer.
+My objective is to build a professional QA portfolio that demonstrates practical software testing skills and prepares me for opportunities as a manual QA Engineer.
 
 ---
 
