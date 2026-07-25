@@ -86,8 +86,8 @@ My objective is to build a professional QA portfolio that demonstrates practical
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** *(Add your LinkedIn profile URL)*
-- **GitHub:** *(Add your GitHub profile URL)*
+- **LinkedIn:** *(https://www.linkedin.com/in/sogo-omolanbe)*
+- **GitHub:** *(https://github.com/pedrobaba)*
 
 ---
 
