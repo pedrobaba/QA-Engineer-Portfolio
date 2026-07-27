@@ -61,6 +61,7 @@ QA-Engineer-Portfolio/
 | Day 5 | Test Design Techniques | ✅ |
 | Day 6 | Test Levels & Test Types | ✅ |
 | Day 7 | Defect Management & Bug Reporting | ✅ |
+| Day 8 | Agile, Scrum & Jira Fundamentals | ✅ |
 
 ---
 
@@ -73,6 +74,7 @@ Current projects include:
 - SauceDemo Smoke Testing
 - Professional Bug Reports
 - Defect Management Exercises
+- Goal.com/en testing
 
 More practical QA projects will be added as my learning progresses.
 
