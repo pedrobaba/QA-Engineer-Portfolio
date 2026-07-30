@@ -1,8 +1,8 @@
 # 🚀 QA Engineer Learning Portfolio
 
-Welcome to my Software Quality Assurance (QA) learning portfolio.
+Welcome to my QA Engineer learning portfolio!
 
-I created this repository to document my journey from Frontend Developer to QA Engineer by learning industry-standard testing practices, building real-world testing artifacts, and sharing my progress publicly.
+This repository documents my journey from **Frontend Developer** to **Software Quality Assurance (QA) Engineer** through a structured 90-day learning roadmap. Every topic includes notes, practical exercises, bug reports, test cases, learning journals, and real-world QA documentation.
 
 ---
 
@@ -10,40 +10,84 @@ I created this repository to document my journey from Frontend Developer to QA E
 
 Hi, I'm **Sogo Omolanbe**.
 
-I'm a Frontend Developer transitioning into Software Quality Assurance (QA). I'm currently following a structured QA roadmap while building a professional portfolio that demonstrates practical testing skills.
+I'm a Frontend Developer transitioning into Software Quality Assurance (QA). My goal is to become a skilled Manual QA Engineer before advancing into QA Automation using JavaScript and Playwright.
 
-My goal is to become a Manual QA Engineer before progressing into QA Automation with Playwright and JavaScript.
+I'm documenting my progress publicly to demonstrate consistency, practical skills, and continuous improvement.
 
 ---
 
-# 📚 Learning Roadmap Progress
+# 🎯 Career Goal
+
+- Become a Manual QA Engineer
+- Gain practical experience through uTest and Test IO
+- Build a strong GitHub QA portfolio
+- Learn SQL and API Testing
+- Transition into QA Automation with Playwright
+
+---
+
+# 📚 90-Day QA Roadmap Progress
 
 | Day | Topic | Status |
-|------|------------------------------|:------:|
-| Day 1 | Introduction to Software Testing, SDLC & STLC | ✅ |
-| Day 2 | Requirement Analysis, Test Scenarios & Test Cases | ✅ |
-| Day 3 | Bug Reporting Fundamentals | ✅ |
-| Day 4 | SDLC Models | ✅ |
-| Day 5 | Test Design Techniques (EP & BVA) | ✅ |
-| Day 6 | Test Levels & Test Types | ✅ |
-| Day 7 | Defect Management & Bug Life Cycle | ✅ |
-| Day 8 | Agile, Scrum & Jira Fundamentals | ✅ |
-| Day 9 | Requirements, User Stories, Acceptance Criteria & RTM | ✅ |
-| Day 10–90 | Coming Soon | ⏳ |
+|------|-----------------------------------------------|:------:|
+| 1 | Software Testing Fundamentals, SDLC & STLC | ✅ |
+| 2 | Test Scenarios & Test Cases | ✅ |
+| 3 | Bug Reporting | ✅ |
+| 4 | SDLC Models | ✅ |
+| 5 | Test Design Techniques (EP & BVA) | ✅ |
+| 6 | Test Levels & Test Types | ✅ |
+| 7 | Defect Management & Bug Life Cycle | ✅ |
+| 8 | Agile, Scrum & Jira Fundamentals | ✅ |
+| 9 | Requirements Analysis, User Stories & RTM | ✅ |
+| 10 | Test Planning, Test Strategy & Test Estimation | ✅ |
+| 11–90 | In Progress | 🚧 |
+
+---
+
+# 🛠 Skills Learned
+
+## Manual Testing
+- Test Planning
+- Test Scenarios
+- Test Cases
+- Bug Reporting
+- Defect Management
+- Smoke Testing
+- Regression Testing
+- Exploratory Testing
+
+## Software Development Process
+- SDLC
+- STLC
+- Agile
+- Scrum
+- Jira
+- User Stories
+- Acceptance Criteria
+- Requirement Traceability Matrix (RTM)
+
+## Test Design Techniques
+- Equivalence Partitioning
+- Boundary Value Analysis (BVA)
+
+## Tools
+- Git
+- GitHub
+- Jira
+- Google Sheets
+- Chrome DevTools
 
 ---
 
 # 📂 Repository Structure
 
-```
-API-Testing/
+```text
 Bug-Reports/
 Certificates/
 Interview-Questions/
 Jira/
 Learning-Journal/
 Notes/
-Playwright/
 Projects/
 Resources/
 SQL/
@@ -54,109 +98,88 @@ Test-Scenarios/
 
 ---
 
-# 🛠 Skills Covered
-
-### Manual Testing
-- Test Planning
-- Test Scenarios
-- Test Cases
-- Bug Reporting
-- Defect Management
-- Regression Testing
-- Smoke Testing
-- Exploratory Testing
-
-### Software Development Process
-- SDLC
-- STLC
-- Agile
-- Scrum
-- Jira
-- User Stories
-- Acceptance Criteria
-- Requirement Traceability Matrix (RTM)
-
-### Test Design Techniques
-- Equivalence Partitioning
-- Boundary Value Analysis
-
-### Tools
-- Git
-- GitHub
-- Google Sheets
-- Jira
-- Chrome DevTools
-
----
-
-# 🎯 Current Goals
-
-- Complete a 90-day QA roadmap
-- Build a professional QA portfolio
-- Master Manual Testing
-- Learn SQL
-- Learn API Testing with Postman
-- Prepare for ISTQB Foundation Certification
-- Continue building experience on uTest and Test IO
-- Transition into QA Automation using Playwright
-
----
-
-# 📈 Portfolio Highlights
-
-✔ Professional Bug Reports
+# 📌 Portfolio Highlights
 
 ✔ Test Cases
 
 ✔ Test Scenarios
 
+✔ Professional Bug Reports
+
 ✔ Learning Journal
 
-✔ Jira Practice
-
-✔ QA Notes
+✔ Test Plans
 
 ✔ Requirement Analysis
 
+✔ User Stories
+
+✔ Acceptance Criteria
+
 ✔ RTM Examples
 
-✔ Interview Questions
+✔ Agile & Scrum Notes
+
+✔ Jira Practice
 
 ---
 
 # 📅 Weekly Progress
 
-### Week 1 ✅
+## ✅ Week 1
 - Software Testing Fundamentals
 - SDLC & STLC
 - Test Cases
-- Bug Reports
+- Bug Reporting
 - SDLC Models
 - Test Design Techniques
 - Test Levels
 - Defect Management
 
-### Week 2 🚧
+## ✅ Week 2 (Current)
 - Agile
 - Scrum
 - Jira
 - Requirements Analysis
 - User Stories
 - Acceptance Criteria
-- Requirement Traceability Matrix (RTM)
+- Requirement Traceability Matrix
+- Test Planning
+- Test Strategy
+- Test Estimation
 
-(More updates coming...)
+---
+
+# 🎯 Current Focus
+
+- Strengthen Manual QA fundamentals
+- Improve bug reporting skills
+- Build practical QA documentation
+- Practice with Jira
+- Learn SQL
+- Learn API Testing (Postman)
+- Prepare for QA interviews
+
+---
+
+# 📈 Learning Philosophy
+
+I believe the best way to learn QA is by combining theory with practice. Every concept I study is reinforced through practical exercises, documentation, GitHub updates, and reflection.
+
+This repository is continuously updated as I progress through my QA learning journey.
 
 ---
 
 # 📫 Connect With Me
 
-**LinkedIn**
+**LinkedIn:**  
 (www.linkedin.com/in/sogo-omolanbe)
 
-**GitHub**
+**GitHub:**  
 (www.github.com/pedrobaba)
 
 ---
 
-⭐ Thank you for visiting my QA learning portfolio. Feedback and suggestions are always welcome!
+⭐ Thank you for visiting my repository!
+
+If you're a recruiter, QA Engineer, or fellow learner, I'd love to hear your feedback.
