@@ -1,8 +1,10 @@
 # 🚀 QA Engineer Learning Portfolio
 
-Welcome to my Software Quality Assurance (QA) learning portfolio.
+Welcome to my Software Quality Assurance (QA) learning portfolio!
 
-This repository documents my journey from **Frontend Developer** to **Manual QA Engineer** through a structured **90-Day QA Roadmap**. Every day, I study industry-standard QA concepts, complete practical exercises, document my work, and build a portfolio that demonstrates my growing skills.
+This repository documents my transition from **Frontend Developer** to **Manual QA Engineer** through a structured **90-Day QA Roadmap**. It contains my daily learning notes, practical exercises, bug reports, test documentation, API testing projects, and hands-on QA practice.
+
+My goal is to build job-ready QA skills while creating a portfolio that demonstrates continuous learning and practical experience.
 
 ---
 
@@ -10,30 +12,38 @@ This repository documents my journey from **Frontend Developer** to **Manual QA 
 
 Hi, I'm **Sogo Omolanbe**.
 
-I'm a Frontend Developer transitioning into Software Quality Assurance (QA). My goal is to build a strong foundation in Manual Testing before progressing to API Testing and QA Automation.
+I'm a Frontend Developer transitioning into Software Quality Assurance (QA), with a strong interest in software quality, backend testing, and test automation.
 
-This repository showcases my practical work, learning notes, and testing documentation as I prepare for entry-level QA opportunities.
+I'm currently building practical experience in:
+
+- Manual Testing
+- API Testing
+- Agile & Scrum
+- Chrome DevTools
+- Bug Reporting
+- Test Documentation
+
+My next goal is to master SQL and Playwright Automation.
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Career Goals
 
 - ✅ Complete a 90-Day QA Roadmap
-- ✅ Build a professional QA GitHub portfolio
-- ✅ Secure my first Manual QA position
-- ✅ Gain real-world testing experience through uTest and TestIO
-- 🔄 Master API Testing with Postman
+- ✅ Land my first Manual QA role
+- ✅ Gain real-world experience through uTest & Test IO
+- ✅ Master API Testing with Postman
 - 🔄 Learn SQL for QA
 - 🔄 Learn Playwright with JavaScript
-- 🔄 Prepare for ISTQB Foundation Certification
+- 🔄 Earn the ISTQB Foundation Certification
 
 ---
 
 # 🔥 Latest Updates
 
-- ✅ Day 13 Completed – API Testing Fundamentals with Postman
-- 📖 Currently learning backend testing using REST APIs
-- 🎯 Next milestone: API validation and advanced Postman testing
+- ✅ Day 14 Completed – Advanced API Testing (CRUD Operations)
+- ✅ Built and tested GET, POST, PUT, PATCH & DELETE requests using Postman
+- 📖 Next Topic: API Validation & Postman Test Scripts
 
 ---
 
@@ -41,20 +51,21 @@ This repository showcases my practical work, learning notes, and testing documen
 
 | Day | Topic | Status |
 |------|-----------------------------------------------|:------:|
-| 1 | Software Testing Fundamentals, SDLC & STLC | ✅ |
-| 2 | Requirement Analysis, Test Scenarios & Test Cases | ✅ |
-| 3 | Bug Reporting Fundamentals | ✅ |
+| 1 | Software Testing Fundamentals | ✅ |
+| 2 | Requirement Analysis & Test Cases | ✅ |
+| 3 | Bug Reporting | ✅ |
 | 4 | SDLC Models | ✅ |
-| 5 | Equivalence Partitioning & Boundary Value Analysis | ✅ |
+| 5 | Test Design Techniques (EP & BVA) | ✅ |
 | 6 | Test Levels & Test Types | ✅ |
 | 7 | Defect Management & Bug Life Cycle | ✅ |
-| 8 | Agile, Scrum & Jira Fundamentals | ✅ |
+| 8 | Agile, Scrum & Jira | ✅ |
 | 9 | User Stories, Acceptance Criteria & RTM | ✅ |
-| 10 | Test Planning, Test Strategy & Test Estimation | ✅ |
-| 11 | Test Execution, Test Evidence & Test Summary Report | ✅ |
-| 12 | Chrome DevTools for QA | ✅ |
-| 13 | API Testing Fundamentals & Postman | ✅ |
-| 14–90 | Coming Soon... | ⏳ |
+| 10 | Test Planning & Test Strategy | ✅ |
+| 11 | Test Execution & Test Summary Report | ✅ |
+| 12 | Chrome DevTools | ✅ |
+| 13 | API Testing Fundamentals | ✅ |
+| 14 | CRUD Operations with Postman | ✅ |
+| 15–90 | Coming Soon... | ⏳ |
 
 ---
 
@@ -78,42 +89,48 @@ Test-Scenarios/
 
 ---
 
-# 🛠 Skills Acquired
+# 🛠 Skills & Technologies
 
 ## Manual Testing
+
 - Test Planning
 - Test Execution
-- Test Scenarios
 - Test Cases
+- Test Scenarios
 - Bug Reporting
-- Defect Management
+- Defect Life Cycle
 - Regression Testing
 - Smoke Testing
 - Exploratory Testing
 
-## SDLC & STLC
-- Software Development Life Cycle
-- Software Testing Life Cycle
-- SDLC Models
+---
 
-## Agile & Scrum
+## API Testing
+
+- REST APIs
+- CRUD Operations
+- HTTP Methods
+- HTTP Status Codes
+- JSON Validation
+- Request & Response Analysis
+- Postman Collections
+
+---
+
+## Agile
+
 - Agile Methodology
 - Scrum Framework
+- Jira Fundamentals
 - Sprint Planning
 - User Stories
 - Acceptance Criteria
-- Jira Fundamentals
 - Requirement Traceability Matrix (RTM)
 
-## API Testing
-- API Fundamentals
-- REST APIs
-- HTTP Methods (GET, POST, PUT, PATCH, DELETE)
-- HTTP Status Codes
-- JSON Response Validation
-- Postman Basics
+---
 
 ## Browser Testing
+
 - Chrome DevTools
 - Elements Panel
 - Console
@@ -121,83 +138,127 @@ Test-Scenarios/
 - Application Storage
 - Basic Debugging
 
+---
+
 ## QA Documentation
+
+- Requirement Analysis
 - Test Plans
 - Test Strategy
+- Test Cases
+- Bug Reports
 - Test Summary Reports
-- Learning Journals
-- Requirement Analysis
-
-## Tools
-- Git
-- GitHub
-- Google Sheets
-- Jira
-- Postman
-- Chrome DevTools
 
 ---
 
-# 📈 Portfolio Highlights
+## Tools
 
-This repository contains practical QA artifacts, including:
+- Postman
+- Jira
+- Chrome DevTools
+- Git
+- GitHub
+- Google Sheets
 
-- ✅ Test Cases
-- ✅ Test Scenarios
-- ✅ Bug Reports
-- ✅ Test Plans
-- ✅ Test Summary Reports
-- ✅ API Testing Notes
-- ✅ Chrome DevTools Investigation
-- ✅ Requirement Analysis
-- ✅ Agile & Scrum Notes
-- ✅ Learning Journals
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧪 SauceDemo Manual Testing | Test scenarios, test cases, bug reports, and execution results |
+| 🔌 API Testing with Postman | GET, POST, PUT, PATCH, DELETE requests using JSONPlaceholder |
+| 📋 Test Documentation | Test plans, strategies, RTMs, and summary reports |
+| 🐞 Bug Reports | Professional bug reports written in industry format |
+
+---
+
+# 📈 Learning Progress
+
+**Completed Topics**
+
+- Software Testing Fundamentals
+- SDLC & STLC
+- Test Cases
+- Test Scenarios
+- Bug Reporting
+- Defect Management
+- Agile & Scrum
+- Jira Basics
+- Requirement Analysis
+- RTM
+- Test Planning
+- Test Execution
+- Chrome DevTools
+- API Testing
+- CRUD Operations
 
 ---
 
 # 🚀 Upcoming Topics
 
 - API Validation
-- Advanced Postman
+- Postman Test Scripts
+- Variables & Environments
 - SQL for QA
 - Database Testing
 - Charles Proxy
 - Mobile Testing
 - Accessibility Testing
-- Cross-Browser Testing
 - Performance Testing Basics
-- Playwright Automation with JavaScript
+- Playwright Automation
 
 ---
 
-# 📊 Learning Progress
+# 📊 Progress Tracker
 
-- **Roadmap Progress:** **13 / 90 Days**
-- **Focus Area:** Manual QA + API Testing
-- **Daily Commitment:** ~4 Hours
-- **Current Objective:** Build job-ready Manual QA and API Testing skills
+- 📅 Roadmap Progress: **14 / 90 Days**
+- ⏱ Daily Study Time: **4+ Hours**
+- 🎯 Current Focus: **Manual QA + API Testing**
+- 🚀 Long-Term Goal: **QA Automation Engineer (Playwright + JavaScript)**
 
 ---
 
 # 📫 Connect With Me
 
 ### 💼 LinkedIn
+
 **https://www.linkedin.com/in/sogo-omolanbe**
 
 ### 💻 GitHub
+
 **https://github.com/pedrobaba**
 
+---
+
+# 🤝 Let's Connect
+
+I'm always open to:
+
+- QA opportunities
+- Internship opportunities
+- Entry-level Manual QA roles
+- Open-source collaborations
+- Networking with QA Engineers and Developers
+
+Feel free to connect with me on LinkedIn or explore my projects on GitHub.
 
 ---
 
-# 🌟 About This Repository
+# ⭐ About This Repository
 
-This repository is updated daily as I progress through my QA learning journey.
+This repository is updated **daily** as I progress through my 90-Day QA learning journey.
 
-My goal is to demonstrate not only what I have learned but also how I apply QA principles through practical exercises, documentation, and hands-on testing.
+Every folder contains practical work that reflects what I'm learning, including:
 
-If you're a recruiter, hiring manager, or fellow QA professional, I welcome your feedback and suggestions.
+- Test Cases
+- Bug Reports
+- API Testing Projects
+- Test Plans
+- Learning Journals
+- QA Notes
+- Hands-on Exercises
 
----
+The goal is to demonstrate not just theoretical knowledge but practical QA skills that are relevant to real-world software testing.
 
-## ⭐ If you find this repository helpful, feel free to star it and connect with me on LinkedIn.
+If you find this repository useful or have suggestions, feel free to connect or leave feedback. ⭐
