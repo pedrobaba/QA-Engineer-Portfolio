@@ -2,7 +2,7 @@
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
-This repository documents my journey from **Frontend Developer** to **Manual QA Engineer** through a structured **90-Day QA Roadmap**. Every day, I study industry-standard QA concepts, complete hands-on exercises, and build a portfolio demonstrating real-world QA practices.
+This repository documents my journey from **Frontend Developer** to **Manual QA Engineer** through a structured **90-Day QA Roadmap**. Each day, I study industry-standard QA concepts, complete hands-on exercises, build real-world QA documentation, and strengthen my practical testing skills.
 
 ---
 
@@ -10,18 +10,18 @@ This repository documents my journey from **Frontend Developer** to **Manual QA 
 
 Hi, I'm **Sogo Omolanbe**.
 
-I'm a Frontend Developer transitioning into Software Quality Assurance (QA), with a focus on Manual Testing, API Testing, and eventually Test Automation using JavaScript and Playwright.
+I'm a Frontend Developer transitioning into Software Quality Assurance (QA). My goal is to become a highly skilled QA Engineer by mastering Manual Testing, API Testing, SQL, and eventually Test Automation with Playwright.
 
-This repository contains my daily learning notes, practical testing projects, and documentation as I prepare for entry-level QA opportunities.
+This repository serves as my learning journal and portfolio, showcasing practical QA artifacts and projects.
 
 ---
 
-# 🎯 Career Goals
+# 🎯 Current Goals
 
 - ✅ Complete a 90-Day QA Roadmap
-- ✅ Build a professional QA portfolio
+- ✅ Build a professional QA GitHub portfolio
 - ✅ Secure my first Manual QA role
-- ✅ Gain practical experience through uTest & Test IO
+- ✅ Gain hands-on testing experience through uTest and Test IO
 - 🔄 Master API Testing with Postman
 - 🔄 Learn SQL for QA
 - 🔄 Learn Playwright Automation (JavaScript)
@@ -31,94 +31,115 @@ This repository contains my daily learning notes, practical testing projects, an
 
 # 🔥 Latest Updates
 
-- ✅ Day 15 Completed – API Validation & Postman Test Assertions
-- 📖 Currently building API testing skills with Postman
-- 🎯 Next milestone: Collections, Variables & API Automation
+- ✅ Day 16 Completed – Postman Collections, Variables & Environments
+- 📖 Currently building reusable API test collections
+- 🎯 Next milestone: API Authentication (API Keys, Bearer Tokens & Basic Auth)
 
 ---
 
-# 📊 Roadmap Progress
-
-**Progress:** **15 / 90 Days (17%)**
+# 📚 Roadmap Progress
 
 | Day | Topic | Status |
 |------|-----------------------------------------------|:------:|
-| 1 | Software Testing Fundamentals | ✅ |
-| 2 | Requirement Analysis & Test Cases | ✅ |
-| 3 | Bug Reporting | ✅ |
+| 1 | Software Testing Fundamentals, SDLC & STLC | ✅ |
+| 2 | Requirement Analysis, Test Scenarios & Test Cases | ✅ |
+| 3 | Bug Reporting Fundamentals | ✅ |
 | 4 | SDLC Models | ✅ |
-| 5 | Test Design Techniques (EP & BVA) | ✅ |
+| 5 | Equivalence Partitioning & Boundary Value Analysis | ✅ |
 | 6 | Test Levels & Test Types | ✅ |
-| 7 | Defect Management | ✅ |
-| 8 | Agile, Scrum & Jira | ✅ |
-| 9 | User Stories & RTM | ✅ |
-| 10 | Test Planning & Strategy | ✅ |
+| 7 | Defect Management & Bug Life Cycle | ✅ |
+| 8 | Agile, Scrum & Jira Fundamentals | ✅ |
+| 9 | User Stories, Acceptance Criteria & RTM | ✅ |
+| 10 | Test Planning, Test Strategy & Test Estimation | ✅ |
 | 11 | Test Execution & Test Summary Report | ✅ |
-| 12 | Chrome DevTools | ✅ |
+| 12 | Chrome DevTools for QA | ✅ |
 | 13 | API Testing Fundamentals | ✅ |
 | 14 | CRUD Operations with Postman | ✅ |
-| 15 | API Validation & Postman Tests | ✅ |
-| 16–90 | Coming Soon... | ⏳ |
+| 15 | API Validation & Postman Test Scripts | ✅ |
+| 16 | Collections, Variables & Environments | ✅ |
+| 17–90 | Coming Soon... | ⏳ |
 
 ---
 
-# 🛠 Skills
+# 🛠 Skills Acquired
 
-## Manual Testing
-- Functional Testing
+## ✅ Manual Testing
+- Test Planning
+- Test Execution
+- Test Scenarios
+- Test Cases
+- Bug Reporting
+- Defect Management
 - Smoke Testing
 - Regression Testing
 - Exploratory Testing
-- Test Planning
-- Test Execution
-- Bug Reporting
-- Defect Life Cycle
-- Test Scenarios
-- Test Cases
 
-## API Testing
-- REST APIs
+## ✅ SDLC & STLC
+- Software Development Life Cycle
+- Software Testing Life Cycle
+- SDLC Models
+
+## ✅ Agile & Scrum
+- Agile Methodology
+- Scrum Framework
+- Sprint Planning
+- User Stories
+- Acceptance Criteria
+- Requirement Traceability Matrix (RTM)
+- Jira Fundamentals
+
+## ✅ API Testing
+- REST API Fundamentals
 - CRUD Operations
 - HTTP Methods
 - HTTP Status Codes
 - JSON Validation
-- API Response Validation
+- Response Assertions
+- API Validation
 - Postman Collections
-- Basic Postman Test Scripts
+- Collection Variables
+- Environment Variables
+- Request & Response Analysis
 
-## Agile
-- Agile Methodology
-- Scrum Framework
-- Sprint Workflow
-- User Stories
-- Acceptance Criteria
-- Jira Fundamentals
-
-## Browser Testing
+## ✅ Browser Testing
 - Chrome DevTools
 - Elements Panel
 - Console
-- Network Analysis
+- Network Tab
 - Application Storage
+- Basic Debugging
 
-## QA Documentation
+## ✅ QA Documentation
 - Test Plans
 - Test Strategy
-- Requirement Traceability Matrix (RTM)
+- Test Cases
+- Test Scenarios
+- Bug Reports
 - Test Summary Reports
 - Learning Journals
 
----
+## 🛠 Tools
 
-# 🧰 Tools
-
-- Postman
-- Jira
-- Chrome DevTools
 - Git
 - GitHub
+- Jira
+- Postman
+- Chrome DevTools
 - Google Sheets
-- Visual Studio Code
+
+---
+
+# 🌟 Featured Projects
+
+- 🐞 Professional Bug Reports
+- 📋 Manual Test Cases
+- 📄 Test Plans & Test Strategy
+- 📊 Test Summary Reports
+- 🌐 Chrome DevTools Investigation
+- 🔌 API Testing with Postman
+- 🔄 CRUD API Testing
+- ✅ API Response Validation
+- 📦 Postman Collections & Environment Setup
 
 ---
 
@@ -142,89 +163,66 @@ Test-Scenarios/
 
 ---
 
-# 🌟 Featured Projects
+# 📈 Learning Progress
 
-- 🧪 SauceDemo Manual Testing Project
-- 🐞 Professional Bug Reports
-- 📋 Test Plans & Test Cases
-- 🔍 Chrome DevTools Investigation
-- 🔌 API Testing with Postman
-- ✅ CRUD Operations Testing
-- 📊 API Response Validation
+## Current Focus
 
----
+- Manual QA
+- API Testing
+- Postman
+- QA Documentation
 
-# 📈 What I'm Currently Learning
+## Upcoming Topics
 
-- API Validation
-- Postman Test Scripts
-- Response Assertions
-- JSON Validation
-- Backend Testing
-
----
-
-# 🚀 Upcoming Topics
-
-- Advanced Postman Features
-- Environment Variables
-- Collections & Collection Runner
+- API Authentication
 - SQL for QA
 - Database Testing
 - Charles Proxy
 - Mobile Testing
 - Accessibility Testing
+- Cross-Browser Testing
 - Performance Testing Basics
 - Playwright Automation
 
 ---
 
-# 📚 Portfolio Highlights
+# 📊 Progress Tracker
 
-This repository contains practical QA artifacts, including:
-
-- ✅ Bug Reports
-- ✅ Test Cases
-- ✅ Test Scenarios
-- ✅ Test Plans
-- ✅ Test Summary Reports
-- ✅ Chrome DevTools Investigations
-- ✅ API Testing Projects
-- ✅ API Validation Exercises
-- ✅ Learning Journals
-- ✅ QA Notes
+- **Roadmap Progress:** **16 / 90 Days**
+- **Current Learning Focus:** API Testing & Postman
+- **Daily Study Commitment:** 4+ Hours
+- **Goal:** Become job-ready for Manual QA positions while preparing for Automation QA.
 
 ---
 
 # 📫 Connect With Me
 
 ### 💼 LinkedIn
-www.linkedin.com/in/sogo-omolanbe
+
+*www.linkedin.com/in/sogo-omolanbe*
 
 ### 💻 GitHub
+
 https://github.com/pedrobaba
 
 ---
 
-# 📌 Current Focus
+# 🌟 About This Repository
 
-I am actively building practical skills in:
+This repository is updated daily as I progress through my QA learning journey.
 
-- Manual Testing
-- API Testing
-- QA Documentation
-- Agile & Scrum
-- Postman
-- Chrome DevTools
+Every folder contains practical work, including:
 
-My goal is to become a job-ready QA Engineer by combining structured learning with hands-on practice and maintaining a public portfolio of my progress.
+- Test Cases
+- Test Scenarios
+- Bug Reports
+- Test Plans
+- API Testing Projects
+- Chrome DevTools Investigations
+- Learning Journals
+
+My objective is to demonstrate not only theoretical knowledge but also practical QA skills through consistent documentation and hands-on testing.
 
 ---
 
-# 🤝 Let's Connect
-
-If you're a QA Engineer, Recruiter, or Developer, I'd love to connect, exchange ideas, and learn from your experience.
-
-Feedback and suggestions are always welcome!
-
-⭐ If you find this repository useful, consider starring it and connecting with me on LinkedIn.
+## ⭐ If you find this repository useful, feel free to star it and connect with me on LinkedIn.
