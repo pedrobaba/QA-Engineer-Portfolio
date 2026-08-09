@@ -1,5 +1,7 @@
 # 🚀 QA Engineering Learning Portfolio
 
+**Last Updated:** August 9, 2026
+
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
 This repository documents my journey from **Frontend Developer to Manual QA Engineer** through a structured **90-Day QA Engineering Roadmap**.
@@ -41,7 +43,7 @@ My goal is to become a well-rounded QA Engineer with strong skills in:
 - Test Documentation
 - Test Automation
 
-I plan to progress into **QA Automation using JavaScript and Playwright** after establishing a strong Manual QA foundation.
+After establishing a strong Manual QA foundation, I plan to progress into **QA Automation using JavaScript and Playwright**.
 
 ---
 
@@ -66,7 +68,8 @@ I plan to progress into **QA Automation using JavaScript and Playwright** after 
 | 15 | API Validation & Postman Test Assertions | ✅ |
 | 16 | Postman Collections, Variables & Environments | ✅ |
 | 17 | API Authentication & Authorization | ✅ |
-| 18–90 | Advanced QA Topics | ⏳ |
+| 18 | API Negative Testing & Error Handling | ✅ |
+| 19–90 | Advanced QA Topics | ⏳ |
 
 ---
 
@@ -116,7 +119,7 @@ I plan to progress into **QA Automation using JavaScript and Playwright** after 
 
 # 🔌 API Testing
 
-I am currently building practical API testing experience using **Postman**.
+I am building practical API testing experience using **Postman**.
 
 ### Skills
 
@@ -141,87 +144,35 @@ I am currently building practical API testing experience using **Postman**.
 - API Authorization
 - API Keys
 - Bearer Tokens
+- Negative API Testing
+- API Error Handling
 
 ---
 
-# 🛠️ QA Tools
-
-| Tool | Purpose |
-|---|---|
-| Postman | API Testing |
-| Jira | Defect & Task Management |
-| Chrome DevTools | Web Debugging & Investigation |
-| Google Sheets | Test Documentation |
-| Git | Version Control |
-| GitHub | QA Portfolio & Documentation |
-| uTest | Crowdtesting |
-| Test IO | Crowdtesting |
-
----
-
-# 🌐 Browser & Web Testing
-
-I use Chrome DevTools to investigate web application issues.
-
-### DevTools Areas
-
-- Elements
-- Console
-- Network
-- Application
-- Storage
-- HTTP Status Codes
-- Request/Response Analysis
-
----
-
-# 🔐 API Authentication
-
-I have practiced API authentication concepts including:
+# 🔐 API Authentication & Authorization
 
 ### Authentication
 
-> Who are you?
+> **Who are you?**
 
 Authentication verifies the identity of a user or application.
 
+Examples:
+
+- Username & Password
+- API Key
+- Bearer Token
+- Basic Authentication
+
 ### Authorization
 
-> What are you allowed to do?
+> **What are you allowed to do?**
 
 Authorization determines what an authenticated user or application is allowed to access or perform.
 
-### Authentication Methods
-
-- API Keys
-- Basic Authentication
-- Bearer Tokens
-
----
-
-# 📂 Repository Structure
+### Important Difference
 
 ```text
-QA-Engineering/
-│
-├── Bug-Reports/
-│
-├── Notes/
-│
-├── Projects/
-│
-├── Learning-Journal/
-│
-├── Test-Cases/
-│
-├── Test-Plans/
-│
-├── Test-Scenarios/
-│
-├── Reports/
-│
-├── Jira/
-│
-├── SQL/
-│
-└── README.md
+401 = Authentication problem
+
+403 = Authorization / permission problem
