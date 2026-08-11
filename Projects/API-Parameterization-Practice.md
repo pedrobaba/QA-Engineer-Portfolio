@@ -39,10 +39,10 @@ Query Parameter Testing
 The same endpoint was tested using different userId
 query parameter values.
 
-User ID	Status Code	Number of Posts	Result
+|User ID |	Status | Code	Number of Posts	Result|
 |--------------|------------------------|
-| 1	| 200 | OK	| 8	Successfully returned 8 posts
-| 2	| 200 | OK	| 10	Successfully returned 10 posts
+| 1	| 200 | OK	| 8	Successfully returned 8 posts|
+| 2	| 200 | OK	| 10	Successfully returned 10 posts|
 
 
 ## Example Requests
