@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** August 9, 2026
+**Last Updated:** August 21, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -69,7 +69,10 @@ After establishing a strong Manual QA foundation, I plan to progress into **QA A
 | 16 | Postman Collections, Variables & Environments | ✅ |
 | 17 | API Authentication & Authorization | ✅ |
 | 18 | API Negative Testing & Error Handling | ✅ |
-| 19–90 | Advanced QA Topics | ⏳ |
+| 19 | API Parameters & Test Data | ✅ |
+| 20 | Test Pyramid | ✅ |
+| 21 | Advanced QA Topics | ✅ |
+| 22-90 | ISTQB Testing Principles | ⏳ |
 
 ---
 
@@ -175,4 +178,11 @@ Authorization determines what an authenticated user or application is allowed to
 ```text
 401 = Authentication problem
 
-403 = Authorization / permission problem
+403 = Authorization/permission problem
+```
+
+##📌 Follow My Journey
+
+I am learning in public and sharing my QA Engineering progress as I continue building practical, job-ready skills.
+
+Feel free to explore the repository, follow my progress, and connect with me.
