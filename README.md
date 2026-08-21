@@ -181,7 +181,7 @@ Authorization determines what an authenticated user or application is allowed to
 403 = Authorization/permission problem
 ```
 
-##📌 Follow My Journey
+### 📌 Follow My Journey
 
 I am learning in public and sharing my QA Engineering progress as I continue building practical, job-ready skills.
 
