@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** August 21, 2026
+**Last Updated:** August 24, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -43,6 +43,7 @@ My goal is to become a well-rounded QA Engineer with strong skills in:
 - Test Documentation
 - Test Automation
 
+
 After establishing a strong Manual QA foundation, I plan to progress into **QA Automation using JavaScript and Playwright**.
 
 ---
@@ -72,7 +73,9 @@ After establishing a strong Manual QA foundation, I plan to progress into **QA A
 | 19 | API Parameters & Test Data | ✅ |
 | 20 | Test Pyramid | ✅ |
 | 21 | Advanced QA Topics | ✅ |
-| 22-90 | ISTQB Testing Principles | ⏳ |
+| 22 | ISTQB Foundation — The 7 Testing Principles | ✅ |
+| 23 | Black Box vs White Box Testing | ✅ |
+| 24 - 90 | Risk-Based Testing | ⏳ |
 
 ---
 
@@ -90,6 +93,11 @@ After establishing a strong Manual QA foundation, I plan to progress into **QA A
 - Web Application Testing
 - Cross-Browser Testing
 - Mobile Testing
+- Black Box Testing
+- White Box Testing
+- Statement Coverage
+- Branch Coverage
+- Path Testing
 
 ---
 
