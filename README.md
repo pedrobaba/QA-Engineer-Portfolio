@@ -57,10 +57,7 @@ After establishing a strong Manual QA foundation, I plan to progress into **QA A
 This roadmap is structured to progressively build my knowledge from QA fundamentals to practical manual testing, API testing, SQL, advanced testing techniques, portfolio projects, automation, and job readiness.
 
 ---
-
-## 🟢 Phase 1 — QA Foundations
-
-### Days 1–7
+# 📚 90-Day QA Roadmap Progress
 
 | Day | Topic | Status |
 |---|---|:---:|
@@ -71,31 +68,6 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 5 | Equivalence Partitioning & Boundary Value Analysis | ✅ |
 | 6 | Test Levels & Test Types | ✅ |
 | 7 | Defect Management & Bug Life Cycle | ✅ |
-
-### Skills Covered
-
-- SDLC
-- STLC
-- Software Testing Principles
-- Testing Levels
-- Testing Types
-- Test Scenarios
-- Test Cases
-- Bug Reporting
-- Bug Severity
-- Bug Priority
-- Bug Life Cycle
-- Equivalence Partitioning
-- Boundary Value Analysis
-
----
-
-# 🔵 Phase 2 — Manual Testing Mastery
-
-### Days 8–14
-
-| Day | Topic | Status |
-|---|---|:---:|
 | 8 | Agile, Scrum & Jira Fundamentals | ✅ |
 | 9 | User Stories & Acceptance Criteria | ✅ |
 | 10 | Test Planning & Test Strategy | ✅ |
@@ -103,38 +75,6 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 12 | Chrome DevTools for QA | ✅ |
 | 13 | API Testing Fundamentals & Postman | ✅ |
 | 14 | API CRUD Testing | ✅ |
-
-### Testing Techniques
-
-- Functional Testing
-- Non-Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Exploratory Testing
-- Acceptance Testing
-- Equivalence Partitioning
-- Boundary Value Analysis
-- Decision Table Testing
-- Test Scenarios
-- Test Cases
-- Bug Reports
-
-### Tools
-
-- Jira
-- Trello
-- Chrome DevTools
-- Postman
-
----
-
-# 🟣 Phase 3 — ISTQB + Test Design
-
-### Days 15–30
-
-| Day | Topic | Status |
-|---|---|:---:|
 | 15 | API Validation & Postman Test Assertions | ✅ |
 | 16 | Postman Collections, Variables & Environments | ✅ |
 | 17 | API Authentication & Authorization | ✅ |
@@ -150,36 +90,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 27 | ISTQB Foundation — Test Analysis & Test Design | ⏳ |
 | 28 | ISTQB Foundation — Test Implementation & Execution | ⏳ |
 | 29 | ISTQB Foundation — Defect Management | ⏳ |
-| 30 | ISTQB Review & Consolidation | ⏳ |
-
-### Skills Covered
-
-- Test Pyramid
-- Static Testing
-- Dynamic Testing
-- Black Box Testing
-- White Box Testing
-- Statement Coverage
-- Branch Coverage
-- Path Testing
-- Risk-Based Testing
-- Test Metrics
-- ISTQB Testing Principles
-- Test Process
-- Test Analysis
-- Test Design
-- Test Implementation
-- Test Execution
-- Defect Management
-
----
-
-# 🟠 Phase 4 — SQL + Advanced API Testing
-
-### Days 31–43
-
-| Day | Topic | Status |
-|---|---|:---:|
+| 30 | ISTQB Foundation — Review & Consolidation | ⏳ |
 | 31 | SQL Fundamentals | ⏳ |
 | 32 | SQL SELECT, WHERE & ORDER BY | ⏳ |
 | 33 | SQL GROUP BY, COUNT, SUM & AVG | ⏳ |
@@ -193,20 +104,52 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 41 | Postman Collections & Automated Assertions | ⏳ |
 | 42 | API Test Documentation & Reporting | ⏳ |
 | 43 | API Testing Portfolio Project | ⏳ |
-
----
-
-## 🔌 SQL
-
-I will learn:
-
-```text
-SELECT
-WHERE
-ORDER BY
-GROUP BY
-COUNT
-SUM
-AVG
+| 44 | Web Testing — Browser & Compatibility Testing | ⏳ |
+| 45 | Cross-Browser Testing | ⏳ |
+| 46 | Mobile Testing Fundamentals | ⏳ |
+| 47 | Mobile App Testing Practice | ⏳ |
+| 48 | Responsive & Device Testing | ⏳ |
+| 49 | Accessibility Testing Fundamentals | ⏳ |
+| 50 | Accessibility Testing Practice | ⏳ |
+| 51 | Network & Proxy Testing | ⏳ |
+| 52 | Charles Proxy / Fiddler Practice | ⏳ |
+| 53 | DevTools Advanced QA Techniques | ⏳ |
+| 54 | Performance Testing Fundamentals | ⏳ |
+| 55 | Security Testing Fundamentals for Manual QA | ⏳ |
+| 56 | Regression Testing Strategy | ⏳ |
+| 57 | Smoke & Sanity Testing Practice | ⏳ |
+| 58 | Exploratory Testing | ⏳ |
+| 59 | Test Estimation & Test Scheduling | ⏳ |
+| 60 | Test Management & QA Documentation | ⏳ |
+| 61 | Git & GitHub for QA | ⏳ |
+| 62 | Jira Advanced QA Workflow | ⏳ |
+| 63 | Test Case Management | ⏳ |
+| 64 | Requirement Traceability Matrix | ⏳ |
+| 65 | Test Coverage & Traceability Practice | ⏳ |
+| 66 | QA Metrics & Reporting | ⏳ |
+| 67 | Defect Metrics & Analysis | ⏳ |
+| 68 | Test Closure & Lessons Learned | ⏳ |
+| 69 | End-to-End Manual Testing Project | ⏳ |
+| 70 | QA Portfolio Project — Planning | ⏳ |
+| 71 | QA Portfolio Project — Test Cases | ⏳ |
+| 72 | QA Portfolio Project — Execution | ⏳ |
+| 73 | QA Portfolio Project — Bug Reports | ⏳ |
+| 74 | QA Portfolio Project — API Testing | ⏳ |
+| 75 | QA Portfolio Project — Test Summary Report | ⏳ |
+| 76 | QA Portfolio Project — Evidence & Documentation | ⏳ |
+| 77 | Automation Testing Introduction | ⏳ |
+| 78 | Playwright Setup | ⏳ |
+| 79 | Playwright Locators | ⏳ |
+| 80 | Playwright Assertions | ⏳ |
+| 81 | Playwright Test Execution | ⏳ |
+| 82 | Playwright Screenshots & Reports | ⏳ |
+| 83 | Automating Login | ⏳ |
+| 84 | Automating Search | ⏳ |
+| 85 | Automating Registration | ⏳ |
+| 86 | Automating Checkout | ⏳ |
+| 87 | Automation Project | ⏳ |
+| 88 | QA Interview Preparation | ⏳ |
+| 89 | CV, LinkedIn & QA Portfolio Preparation | ⏳ |
+| 90 | Final QA Assessment & Job Application Readiness | ⏳ |
 INNER JOIN
 LEFT JOIN
