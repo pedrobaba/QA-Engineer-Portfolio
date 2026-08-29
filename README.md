@@ -10,16 +10,17 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 ---
 
-# **QA Engineering Roadmap:** Day 24 / 90
+# # 📈 Current Progress
 
-**Completion:** 26.7%
+**QA Engineering Roadmap:** Day 25 / 90
 
-**Current Topic:** Risk-Based Testing
+**Completion:** 27.8%
+
+**Current Topic:** Test Metrics
 
 **Status:** ✅ Completed
 
-**Next Topic:** Test Metrics
----
+**Next Topic:** ISTQB Foundation — Test Process---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
