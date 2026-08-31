@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** August 29, 2026
+**Last Updated:** August 31, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,15 +12,13 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 25 / 90
-
-**Completion:** 27.8%
+**QA Engineering Roadmap:** Day 26 / 90
 
 **Current Topic:** Test Metrics
 
 **Status:** ✅ Completed
 
-**Next Topic:** ISTQB Foundation — Test Process---
+**Next Topic:** ISTQB Foundation — Test Analysis & Test Design ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -96,8 +94,8 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 22 | ISTQB Foundation — The 7 Testing Principles | ✅ |
 | 23 | Black Box vs White Box Testing | ✅ |
 | 24 | Risk-Based Testing | ✅ |
-| 25 | Test Metrics | ✅ |
-| 26 | ISTQB Foundation — Test Process | ⏳ |
+| 25 | Test Metrics |  |
+| 26 | ISTQB Foundation — Test Process | ✅ |
 | 27 | ISTQB Foundation — Test Analysis & Test Design | ⏳ |
 | 28 | ISTQB Foundation — Test Implementation & Execution | ⏳ |
 | 29 | ISTQB Foundation — Defect Management | ⏳ |
