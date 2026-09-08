@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** September 6, 2026
+**Last Updated:** September 8, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,7 +12,7 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 29/ 90
+**QA Engineering Roadmap:** Day 30/ 90
 
 **Current Topic:** ISTQB Foundation — Defect Management
 
@@ -99,7 +99,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 27 | ISTQB Foundation — Test Analysis & Test Design | ✅ |
 | 28 | ISTQB Foundation — Test Implementation & Execution | ✅ |
 | 29 | ISTQB Foundation — Defect Management | ✅ |
-| 30 | ISTQB Foundation — Review & Consolidation | ⏳ |
+| 30 | ISTQB Foundation — Review & Consolidation | ✅ |
 | 31 | SQL Fundamentals | ⏳ |
 | 32 | SQL SELECT, WHERE & ORDER BY | ⏳ |
 | 33 | SQL GROUP BY, COUNT, SUM & AVG | ⏳ |
