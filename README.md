@@ -35,7 +35,7 @@ I am currently building practical experience through:
 - Postman
 - Chrome DevTools
 - Jira
-- Dbeaver
+- DBeaver
 - uTest
 - Test IO
 - Git & GitHub
