@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** September 10, 2026
+**Last Updated:** September 13, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,20 +12,20 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 31/ 90
+**QA Engineering Roadmap:** Day 32/ 90
 
-**Current Topic:** ISTQB Foundation — Defect Management
+**Current Topic:** SQL SELECT, WHERE & ORDER BY 
 
 **Status:** ✅ Completed
 
-**Next Topic:** ISTQB Foundation — Review & Consolidation  ---
+**Next Topic:** SQL GROUP BY, COUNT, SUM & AVG  ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
 
 I'm a Frontend Developer transitioning into Software Quality Assurance.
 
-My background in frontend development gives me an understanding of how web applications are built, while my QA journey focuses on learning how to systematically test applications, identify defects, document issues, and improve software quality.
+My background in frontend development gives me an understanding of how web applications are built. At the same time, my QA journey focuses on learning how to systematically test applications, identify defects, document issues, and improve software quality.
 
 I am currently building practical experience through:
 
@@ -35,6 +35,7 @@ I am currently building practical experience through:
 - Postman
 - Chrome DevTools
 - Jira
+- Dbeaver
 - uTest
 - Test IO
 - Git & GitHub
@@ -101,7 +102,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 29 | ISTQB Foundation — Defect Management | ✅ |
 | 30 | ISTQB Foundation — Review & Consolidation | ✅ |
 | 31 | SQL Fundamentals | ✅ |
-| 32 | SQL SELECT, WHERE & ORDER BY | ⏳ |
+| 32 | SQL SELECT, WHERE & ORDER BY | ✅ |
 | 33 | SQL GROUP BY, COUNT, SUM & AVG | ⏳ |
 | 34 | SQL JOINs | ⏳ |
 | 35 | SQL QA Database Testing Practice | ⏳ |
