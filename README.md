@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** September 13, 2026
+**Last Updated:** September 15, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,13 +12,13 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 32/ 90
+**QA Engineering Roadmap:** Day 33/ 90
 
-**Current Topic:** SQL SELECT, WHERE & ORDER BY 
+**Current Topic:** SQL GROUP BY, COUNT, SUM & AVG
 
 **Status:** ✅ Completed
 
-**Next Topic:** SQL GROUP BY, COUNT, SUM & AVG  ---
+**Next Topic:** SQL JOINs ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -103,7 +103,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 30 | ISTQB Foundation — Review & Consolidation | ✅ |
 | 31 | SQL Fundamentals | ✅ |
 | 32 | SQL SELECT, WHERE & ORDER BY | ✅ |
-| 33 | SQL GROUP BY, COUNT, SUM & AVG | ⏳ |
+| 33 | SQL GROUP BY, COUNT, SUM & AVG | ✅ |
 | 34 | SQL JOINs | ⏳ |
 | 35 | SQL QA Database Testing Practice | ⏳ |
 | 36 | API Testing — Advanced Requests & Parameters | ⏳ |
