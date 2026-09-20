@@ -12,13 +12,13 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 33/ 90
+**QA Engineering Roadmap:** Day 35/ 90
 
-**Current Topic:** SQL JOINs
+**Current Topic:** SQL QA Database Testing Practice
 
 **Status:** ✅ Completed
 
-**Next Topic:** SQL QA Database Testing Practice ---
+**Next Topic:** API Testing — Advanced Requests & Parameters ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -105,7 +105,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 32 | SQL SELECT, WHERE & ORDER BY | ✅ |
 | 33 | SQL GROUP BY, COUNT, SUM & AVG | ✅ |
 | 34 | SQL JOINs | ✅ |
-| 35 | SQL QA Database Testing Practice | ⏳ |
+| 35 | SQL QA Database Testing Practice | ✅ |
 | 36 | API Testing — Advanced Requests & Parameters | ⏳ |
 | 37 | API Headers, Cookies & Response Validation | ⏳ |
 | 38 | API Authentication — Advanced Practice | ⏳ |
