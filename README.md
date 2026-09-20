@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** September 15, 2026
+**Last Updated:** September 20, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
