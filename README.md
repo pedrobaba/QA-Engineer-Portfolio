@@ -95,7 +95,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 22 | ISTQB Foundation — The 7 Testing Principles | ✅ |
 | 23 | Black Box vs White Box Testing | ✅ |
 | 24 | Risk-Based Testing | ✅ |
-| 25 | Test Metrics |  |
+| 25 | Test Metrics | ✅ |
 | 26 | ISTQB Foundation — Test Process | ✅ |
 | 27 | ISTQB Foundation — Test Analysis & Test Design | ✅ |
 | 28 | ISTQB Foundation — Test Implementation & Execution | ✅ |
