@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** September 22, 2026
+**Last Updated:** September 25, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -14,11 +14,11 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 **QA Engineering Roadmap:** Day 35/ 90
 
-**Current Topic:** API Testing — Advanced Requests & Parameters
+**Current Topic:** API Headers, Cookies & Response Validation
 
 **Status:** ✅ Completed
 
-**Next Topic:** API Headers, Cookies & Response Validation ---
+**Next Topic:** API Authentication — Advanced Practice ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -107,7 +107,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 34 | SQL JOINs | ✅ |
 | 35 | SQL QA Database Testing Practice | ✅ |
 | 36 | API Testing — Advanced Requests & Parameters | ✅ |
-| 37 | API Headers, Cookies & Response Validation | ⏳ |
+| 37 | API Headers, Cookies & Response Validation | ✅ |
 | 38 | API Authentication — Advanced Practice | ⏳ |
 | 39 | API Negative & Security Testing | ⏳ |
 | 40 | API Testing Project | ⏳ |
