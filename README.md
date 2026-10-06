@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 5, 2026
+**Last Updated:** October 6, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,13 +12,13 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 41/ 90
+**QA Engineering Roadmap:** Day 43/ 90
 
-**Current Topic:** Postman Collections & Automated Assertions
+**Current Topic:** API Testing Portfolio Project
 
 **Status:** ✅ Completed
 
-**Next Topic:** API Test Documentation & Reporting ---
+**Next Topic:** Web Testing — Browser & Compatibility Testing ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -113,7 +113,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 40 | API Testing Project | ✅ |
 | 41 | Postman Collections & Automated Assertions | ✅ |
 | 42 | API Test Documentation & Reporting | ✅ |
-| 43 | API Testing Portfolio Project | ⏳ |
+| 43 | API Testing Portfolio Project | ✅ |
 | 44 | Web Testing — Browser & Compatibility Testing | ⏳ |
 | 45 | Cross-Browser Testing | ⏳ |
 | 46 | Mobile Testing Fundamentals | ⏳ |
