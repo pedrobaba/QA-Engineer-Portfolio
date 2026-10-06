@@ -112,7 +112,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 39 | API Negative & Security Testing | ✅ |
 | 40 | API Testing Project | ✅ |
 | 41 | Postman Collections & Automated Assertions | ✅ |
-| 42 | API Test Documentation & Reporting | ⏳ |
+| 42 | API Test Documentation & Reporting | ✅ |
 | 43 | API Testing Portfolio Project | ⏳ |
 | 44 | Web Testing — Browser & Compatibility Testing | ⏳ |
 | 45 | Cross-Browser Testing | ⏳ |
