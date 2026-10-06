@@ -89,7 +89,7 @@ Validate the functionality, response behavior, data structure, and basic perform
 ## API Test Cases
 
 | Test Case ID | Scenario ID | Test Case | Method | Endpoint | Expected Result |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | API-TC-001 | API-SC-001 | Retrieve all users | GET | /users | HTTP 200 and users returned |
 | API-TC-002 | API-SC-002 | Retrieve valid user | GET | /users/1 | HTTP 200 and user ID 1 returned |
 | API-TC-003 | API-SC-003 | Validate required user fields | GET | /users/1 | Required fields are present |
@@ -116,7 +116,7 @@ Validate the functionality, response behavior, data structure, and basic perform
 ### Detailed Results
 
 | Test Case ID | Endpoint | Expected | Actual | Result | Evidence |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | API-TC-001 | GET /users | 200 OK | 200 OK | PASS | Postman collection run|
 | API-TC-002 | GET /users/1 | 200 OK | 200 OK | PASS | Postman collection run|
 | API-TC-003 | GET /users/1 | Required fields present | All present | PASS | Postman collection run|
