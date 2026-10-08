@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 6, 2026
+**Last Updated:** October 7, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -114,7 +114,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 41 | Postman Collections & Automated Assertions | ✅ |
 | 42 | API Test Documentation & Reporting | ✅ |
 | 43 | API Testing Portfolio Project | ✅ |
-| 44 | Web Testing — Browser & Compatibility Testing | ⏳ |
+| 44 | Web Testing — Browser & Compatibility Testing | ✅ |
 | 45 | Cross-Browser Testing | ⏳ |
 | 46 | Mobile Testing Fundamentals | ⏳ |
 | 47 | Mobile App Testing Practice | ⏳ |
