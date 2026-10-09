@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 7, 2026
+**Last Updated:** October 8, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,7 +12,7 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 43/ 90
+**QA Engineering Roadmap:** Day 45/ 90
 
 **Current Topic:** API Testing Portfolio Project
 
