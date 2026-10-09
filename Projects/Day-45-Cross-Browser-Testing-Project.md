@@ -2,124 +2,198 @@
 
 ## 1. Project Overview
 
-**Project:** Cross-Browser Testing Practice
-**Focus:** Login compatibility across supported browsers
-**Type:** Hypothetical QA exercise
+**Project:** Cross-Browser Compatibility Testing
+**Application Under Test:** [SauceDemo](https://www.saucedemo.com/)
+**Testing Type:** Manual Cross-Browser Testing
+**Browsers Tested:** Google Chrome and Mozilla Firefox
+**Viewport Tested:** 390 × 844 pixels
+**Testing Status:** Completed
+**Overall Result:** PASS for all recorded checks
 
-The purpose of this exercise was to practice documenting browser-specific failures, comparing test outcomes, inspecting diagnostic evidence, and making a release recommendation.
+### Objective
 
-No live application was executed as part of this exercise.
+The objective of this project was to verify that key SauceDemo shopping workflows behave consistently in Chrome and Firefox, including login, cart operations, checkout, order completion, and responsive layout.
 
-## 2. Test Scenario
+## 2. Scope of Testing
 
-**Scenario ID:** TS-CB-001
+The following areas were tested:
 
-Verify that a user can log in with valid credentials using each supported browser.
+* Login functionality
+* Add-to-cart functionality
+* Checkout information and overview
+* Order completion and confirmation
+* Cart consistency
+* Responsive layout
 
-### Expected Result
+The practical focused on identifying browser-specific differences in functionality, content, and layout.
 
-The user successfully logs in and is redirected to the Dashboard.
+## 3. Test Environment
 
-## 3. Browser Compatibility Matrix
+| Item                | Details                    |
+| ------------------- | -------------------------- |
+| Application         | SauceDemo                  |
+| Application URL     | https://www.saucedemo.com/ |
+| Browser 1           | Google Chrome              |
+| Browser 2           | Mozilla Firefox            |
+| Testing approach    | Manual testing             |
+| Responsive viewport | 390 × 844 pixels           |
+| Test account        | SauceDemo standard user    |
+| Automation          | None                       |
 
-| Browser | Version | Expected result   | Actual result                             | Status |
-| ------- | ------- | ----------------- | ----------------------------------------- | ------ |
-| Chrome  | 154     | Login → Dashboard | Login successful → Dashboard              | PASS   |
-| Firefox | 154     | Login → Dashboard | Login fails; JavaScript TypeError appears | FAIL   |
-| Edge    | 154     | Login → Dashboard | Login successful → Dashboard              | PASS   |
-| Safari  | 18      | Login → Dashboard | Login successful → Dashboard              | PASS   |
+*Note: Browser versions, operating system version, and execution date were not recorded in this report.*
 
-**Data note:** These are the hypothetical results used during the learning exercise, not verified results from a live browser test.
+## 4. Test Scenarios and Results
 
-## 4. Test Execution Summary
+### Scenario 1: Login Functionality
 
-* Browsers represented: 4
-* Passing results: 3
-* Failing results: 1
-* Total hypothetical executions: 4
-* Pass rate: 75%
-* Failure rate: 25%
+**Objective:** Verify that a user can log in successfully in both browsers.
 
-Calculations:
+| Browser | Expected Result                 | Actual Result                     | Status |
+| ------- | ------------------------------- | --------------------------------- | ------ |
+| Chrome  | Products page opens after login | Products page loaded successfully | PASS   |
+| Firefox | Products page opens after login | Products page loaded successfully | PASS   |
 
-* Pass rate = (3 ÷ 4) × 100 = 75%
-* Failure rate = (1 ÷ 4) × 100 = 25%
+**Finding:** No login compatibility issue was observed in the tested browsers.
 
-These figures summarize the exercise only.
+### Scenario 2: Add to Cart
 
-## 5. Defect Investigation
+**Objective:** Verify that adding a product to the cart works consistently.
 
-### Defect A — Firefox Login Failure
+| Check                                 | Chrome | Firefox |
+| ------------------------------------- | ------ | ------- |
+| Button changes to Remove              | PASS   | PASS    |
+| Cart badge displays the correct count | PASS   | PASS    |
+| Backpack appears in the cart          | PASS   | PASS    |
+| Overall scenario                      | PASS   | PASS    |
 
-**Proposed title:** Login fails on Firefox due to JavaScript TypeError
+**Finding:** No Add to Cart compatibility issue was observed.
 
-**Environment:** Firefox 154, Windows 11 (hypothetical exercise environment)
+### Scenario 3: Checkout Workflow
 
-**Precondition:** A valid username and password are available.
+**Objective:** Verify that the checkout process works consistently across both browsers.
 
-**Steps to reproduce:**
+| Check                            | Chrome | Firefox |
+| -------------------------------- | ------ | ------- |
+| Checkout page opens              | PASS   | PASS    |
+| Customer information is accepted | PASS   | PASS    |
+| Checkout Overview page opens     | PASS   | PASS    |
+| Correct item is displayed        | PASS   | PASS    |
+| Overall scenario                 | PASS   | PASS    |
 
-1. Open the website in Firefox.
-2. Navigate to the Login page.
-3. Enter valid credentials.
-4. Click Login.
-5. Observe the login result and browser Console.
+**Finding:** No checkout compatibility issue was observed in the tested steps.
 
-**Expected result:** The user logs in successfully and is redirected to the Dashboard.
+### Scenario 4: Order Completion
 
-**Actual result:** Login fails and the Console displays `TypeError: Cannot read properties of undefined`.
+**Objective:** Verify that the user can complete the order and see the confirmation.
 
-**Network evidence:** The `POST /api/login` request is not sent in the exercise scenario.
+| Check                           | Chrome | Firefox |
+| ------------------------------- | ------ | ------- |
+| Item and price are correct      | PASS   | PASS    |
+| Finish button works             | PASS   | PASS    |
+| Confirmation page appears       | PASS   | PASS    |
+| Confirmation message is visible | PASS   | PASS    |
+| Overall scenario                | PASS   | PASS    |
 
-**Initial investigation direction:** Client-side/browser compatibility.
+**Finding:** The order completion workflow passed in both browsers based on the recorded observations.
 
-**Evidence to capture during real testing:**
+### Scenario 5: Cart Consistency
 
-* Login page after clicking Login.
-* Full Console error.
-* Network panel showing that the login request was not sent.
-* Actual browser version and operating system.
-* Comparison with the same test passing in other supported browsers.
+**Objective:** Verify that multiple products and cart updates behave consistently.
 
-**Severity:** Proposed High for discussion because Login is a core function. The final severity requires an impact assessment and confirmation of supported-browser requirements.
+| Check                            | Chrome | Firefox |
+| -------------------------------- | ------ | ------- |
+| Both products appear in the cart | PASS   | PASS    |
+| Product names and prices match   | PASS   | PASS    |
+| Removing an item works           | PASS   | PASS    |
+| Cart badge updates correctly     | PASS   | PASS    |
+| Overall scenario                 | PASS   | PASS    |
 
-## 6. Additional Diagnostic Comparison
+**Finding:** No cart consistency issue was observed.
 
-### Firefox
+### Scenario 6: Responsive Layout
 
-* JavaScript TypeError observed.
-* Login request not sent.
-* Investigate the client-side execution path and browser compatibility.
+**Objective:** Verify that the application remains usable at a narrow viewport.
 
-### Safari — Separate Hypothetical Example
+**Viewport:** 390 × 844 pixels
 
-* `POST /api/checkout` is sent.
-* Response: `500 Internal Server Error`.
-* Investigate the API/server behavior and associated logs.
+| Check                                 | Chrome | Firefox |
+| ------------------------------------- | ------ | ------- |
+| Products remain readable              | PASS   | PASS    |
+| Buttons are usable                    | PASS   | PASS    |
+| Navigation and cart remain accessible | PASS   | PASS    |
+| No unintended horizontal overflow     | PASS   | PASS    |
+| Overall scenario                      | PASS   | PASS    |
 
-The Safari example illustrates a separate diagnostic scenario; it is not an additional failure in the Login compatibility matrix.
+**Finding:** No responsive-layout issue was observed at the tested viewport.
 
-## 7. Release Recommendation
+## 5. Consolidated Results
 
-**Recommendation for the exercise: Do not approve release yet.**
+| Test Area         | Chrome | Firefox |
+| ----------------- | ------ | ------- |
+| Login             | PASS   | PASS    |
+| Add to Cart       | PASS   | PASS    |
+| Checkout Workflow | PASS   | PASS    |
+| Order Completion  | PASS   | PASS    |
+| Cart Consistency  | PASS   | PASS    |
+| Responsive Layout | PASS   | PASS    |
 
-The hypothetical Login failure occurs in Firefox while the other three browsers pass. If Firefox is a supported browser, the team should investigate and fix the defect, then retest Login across all supported browsers before making the release decision.
+### Summary
 
-The final decision should follow the project's release criteria and the confirmed business impact.
+All six recorded test areas passed in Chrome and Firefox.
 
-## 8. Lessons Learned
+* **Browser coverage:** 2 browsers
+* **Test areas completed:** 6
+* **Compatibility defects observed:** 0
+* **Overall outcome:** PASS for the tested scenarios
 
-* Test the same functionality across all supported browsers.
-* Record actual results separately from expected results.
-* Use Console and Network evidence to investigate failures.
-* Avoid declaring a root cause before sufficient investigation.
-* Write reproduction steps another tester can follow.
-* Make release recommendations based on evidence and impact.
+These results apply only to the scenarios and viewport tested. They do not establish that the entire application is defect-free.
 
-## 9. Project Status
+## 6. Defect Reporting
 
-**Day 45 learning exercise:** Completed.
+No compatibility defects were observed during this practical exercise.
 
-**Live cross-browser execution:** Not yet performed.
+No defect report was created because the recorded results did not identify a reproducible failure.
 
-**Next step:** Perform the practical checks on a real application, record the actual browser versions, and replace hypothetical results with verified evidence.
+A future defect should be documented with:
+
+* Clear reproduction steps
+* Expected result
+* Actual result
+* Browser and version
+* Operating system and viewport
+* Screenshot or recording, if captured
+* Severity and priority, based on impact
+
+## 7. Testing Limitations
+
+The following limitations apply:
+
+1. Testing was limited to Chrome and Firefox.
+2. Responsive testing was performed at one recorded viewport size.
+3. Browser and operating system versions were not recorded.
+4. The test results are based on recorded manual observations.
+5. No automated regression suite was executed.
+6. No screenshots or recordings are claimed by this report unless they are separately captured and saved.
+
+Additional testing would be needed to assess other browsers, devices, viewport sizes, accessibility, performance, and less common user journeys.
+
+## 8. Key Learning Outcomes
+
+Through this project, I practiced how to:
+
+* Compare application behavior across browsers
+* Test complete shopping workflows
+* Validate cart updates and checkout behavior
+* Inspect responsive layouts
+* Record expected and actual results
+* Report findings without inventing defects
+* Explain the limits of a test run
+
+## 9. Conclusion
+
+Cross-browser testing was performed on SauceDemo using Google Chrome and Mozilla Firefox.
+
+The tested login, cart, checkout, order-completion, and responsive-layout scenarios passed in both browsers. No compatibility defects were observed within the scope of this practical exercise.
+
+This project demonstrates a structured manual testing approach and evidence-conscious reporting.
+
