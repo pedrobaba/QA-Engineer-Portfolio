@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 8, 2026
+**Last Updated:** October 9, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,13 +12,13 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 45/ 90
+**QA Engineering Roadmap:** Day 46/ 90
 
-**Current Topic:** API Testing Portfolio Project
+**Current Topic:** Mobile Testing Fundamentals
 
 **Status:** ✅ Completed
 
-**Next Topic:** Web Testing — Browser & Compatibility Testing ---
+**Next Topic:** Mobile App Testing Practice ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -115,8 +115,8 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 42 | API Test Documentation & Reporting | ✅ |
 | 43 | API Testing Portfolio Project | ✅ |
 | 44 | Web Testing — Browser & Compatibility Testing | ✅ |
-| 45 | Cross-Browser Testing | ⏳ |
-| 46 | Mobile Testing Fundamentals | ⏳ |
+| 45 | Cross-Browser Testing | ✅ |
+| 46 | Mobile Testing Fundamentals | ✅ |
 | 47 | Mobile App Testing Practice | ⏳ |
 | 48 | Responsive & Device Testing | ⏳ |
 | 49 | Accessibility Testing Fundamentals | ⏳ |
