@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 12, 2026
+**Last Updated:** October 13, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 50/ 90
+**QA Engineering Roadmap:** Day 51/ 90
 
-**Current Topic:** Accessibility Testing Practice 
+**Current Topic:** Network & Proxy Testing 
 **Status:** ✅ Completed
 
-**Next Topic:** Network & Proxy Testing ---
+**Next Topic:** Charles Proxy / Fiddler Practice ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -120,7 +120,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 48 | Responsive & Device Testing | ✅ |
 | 49 | Accessibility Testing Fundamentals | ✅ |
 | 50 | Accessibility Testing Practice | ✅ |
-| 51 | Network & Proxy Testing | ⏳ |
+| 51 | Network & Proxy Testing | ✅ |
 | 52 | Charles Proxy / Fiddler Practice | ⏳ |
 | 53 | DevTools Advanced QA Techniques | ⏳ |
 | 54 | Performance Testing Fundamentals | ⏳ |
