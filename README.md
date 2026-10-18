@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 54/90
+**QA Engineering Roadmap:** Day 55/90
 
-**Current Topic:** Performance Testing Fundamentals
+**Current Topic:** Security Testing Fundamentals for Manual QA
 **Status:** ✅ Completed
 
-**Next Topic:** Security Testing Fundamentals for Manual QA ---
+**Next Topic:** Regression Testing Strategy ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -124,7 +124,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 52 | Charles Proxy / Fiddler Practice | ✅ |
 | 53 | DevTools Advanced QA Techniques | ✅ |
 | 54 | Performance Testing Fundamentals | ✅ |
-| 55 | Security Testing Fundamentals for Manual QA | ⏳ |
+| 55 | Security Testing Fundamentals for Manual QA | ✅ |
 | 56 | Regression Testing Strategy | ⏳ |
 | 57 | Smoke & Sanity Testing Practice | ⏳ |
 | 58 | Exploratory Testing | ⏳ |
