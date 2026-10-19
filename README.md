@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 18, 2026
+**Last Updated:** October 19, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 55/90
+**QA Engineering Roadmap:** Day 56/90
 
-**Current Topic:** Security Testing Fundamentals for Manual QA
+**Current Topic:** Regression Testing Strategy
 **Status:** ✅ Completed
 
-**Next Topic:** Regression Testing Strategy ---
+**Next Topic:** Smoke & Sanity Testing Practice ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -125,7 +125,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 53 | DevTools Advanced QA Techniques | ✅ |
 | 54 | Performance Testing Fundamentals | ✅ |
 | 55 | Security Testing Fundamentals for Manual QA | ✅ |
-| 56 | Regression Testing Strategy | ⏳ |
+| 56 | Regression Testing Strategy | ✅ |
 | 57 | Smoke & Sanity Testing Practice | ⏳ |
 | 58 | Exploratory Testing | ⏳ |
 | 59 | Test Estimation & Test Scheduling | ⏳ |
