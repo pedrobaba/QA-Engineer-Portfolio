@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 60/90
+**QA Engineering Roadmap:** Day 61/90
 
-**Current Topic:** Test Management & QA Documentation
+**Current Topic:** Git & GitHub for QA
 **Status:** ✅ Completed
 
-**Next Topic:** Git & GitHub for QA ---
+**Next Topic:** Jira Advanced QA Workflow ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -130,7 +130,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 58 | Exploratory Testing | ✅ |
 | 59 | Test Estimation & Test Scheduling | ✅ |
 | 60 | Test Management & QA Documentation | ✅ |
-| 61 | Git & GitHub for QA | ⏳ |
+| 61 | Git & GitHub for QA | ✅ |
 | 62 | Jira Advanced QA Workflow | ⏳ |
 | 63 | Test Case Management | ⏳ |
 | 64 | Requirement Traceability Matrix | ⏳ |
