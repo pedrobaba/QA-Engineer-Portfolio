@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 22, 2026
+**Last Updated:** October 23, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 58/90
+**QA Engineering Roadmap:** Day 60/90
 
-**Current Topic:** Test Estimation & Test Scheduling
+**Current Topic:** Test Management & QA Documentation
 **Status:** ✅ Completed
 
-**Next Topic:** Test Management & QA Documentation ---
+**Next Topic:** Git & GitHub for QA ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -129,7 +129,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 57 | Smoke & Sanity Testing Practice | ✅ |
 | 58 | Exploratory Testing | ✅ |
 | 59 | Test Estimation & Test Scheduling | ✅ |
-| 60 | Test Management & QA Documentation | ⏳ |
+| 60 | Test Management & QA Documentation | ✅ |
 | 61 | Git & GitHub for QA | ⏳ |
 | 62 | Jira Advanced QA Workflow | ⏳ |
 | 63 | Test Case Management | ⏳ |
