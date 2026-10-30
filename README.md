@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** October 28, 2026
+**Last Updated:** October 30, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 64/90
+**QA Engineering Roadmap:** Day 65/90
 
-**Current Topic:** Requirement Traceability Matrix
+**Current Topic:** Test Coverage & Traceability Practice 
 **Status:** ✅ Completed
 
-**Next Topic:** Test Coverage & Traceability Practice  ---
+**Next Topic:** QA Metrics & Reporting ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -134,7 +134,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 62 | Jira Advanced QA Workflow | ✅ |
 | 63 | Test Case Management | ✅ |
 | 64 | Requirement Traceability Matrix | ✅ |
-| 65 | Test Coverage & Traceability Practice | ⏳ |
+| 65 | Test Coverage & Traceability Practice | ✅ |
 | 66 | QA Metrics & Reporting | ⏳ |
 | 67 | Defect Metrics & Analysis | ⏳ |
 | 68 | Test Closure & Lessons Learned | ⏳ |
