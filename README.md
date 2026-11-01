@@ -14,10 +14,10 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 **QA Engineering Roadmap:** Day 66/90
 
-**Current Topic:** QA Metrics & Reporting
+**Current Topic:** Defect Metrics & Analysis
 **Status:** ✅ Completed
 
-**Next Topic:** Defect Metrics & Analysis ---
+**Next Topic:** Test Closure & Lessons Learned ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -136,7 +136,7 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 64 | Requirement Traceability Matrix | ✅ |
 | 65 | Test Coverage & Traceability Practice | ✅ |
 | 66 | QA Metrics & Reporting | ✅ |
-| 67 | Defect Metrics & Analysis | ⏳ |
+| 67 | Defect Metrics & Analysis | ✅ |
 | 68 | Test Closure & Lessons Learned | ⏳ |
 | 69 | End-to-End Manual Testing Project | ⏳ |
 | 70 | QA Portfolio Project — Planning | ⏳ |
