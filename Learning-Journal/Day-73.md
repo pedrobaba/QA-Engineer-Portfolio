@@ -39,7 +39,144 @@ One important area to keep improving is assigning severity and priority consiste
 
 I also need to ensure that every published portfolio example is clearly identified as either a real observed finding or a simulated practice example.
 
-## Day 73 Outcome
 
-I completed the Day 73 learning tasks and prepared the structure for documenting bug reports in my SauceDemo QA portfolio.
+
+# SauceDemo — Bug Report Log
+
+## Purpose
+
+This log provides a central overview of the defect examples prepared for the SauceDemo QA portfolio project.
+
+**Data status:** All records below are simulated practice examples. They are not verified live defects and must not be counted as actual test findings.
+
+| Bug ID | Title | Module | Related Test Case | Severity | Priority | Status |
+|---|---|---|---|---|---|---|
+| BUG-001 | Checkout displays an incorrect order total | Checkout | TC-019 | High | P1 | Example — Not Verified |
+| BUG-002 | Product sorting does not follow the selected order | Inventory | TC-008 | Medium | P2 | Example — Not Verified |
+| BUG-003 | Checkout accepts an invalid postal code without the expected validation | Checkout | TC-016 | Medium | P2 | Example — Not Verified |
+
+## Traceability
+
+| Test Case | Related Bug | Description |
+|---|---|---|
+| TC-008 | BUG-002 | Product sorting |
+| TC-016 | BUG-003 | Postal code validation |
+| TC-019 | BUG-001 | Checkout total calculation |
+
+## Notes
+
+- These records are included to demonstrate bug-report structure and traceability.
+- No live execution evidence is attached to these examples.
+- Update a record only after the behaviour has been tested and verified.
+- Replace simulated details with actual observations if a live test confirms a defect.
+- Do not publish confidential information, credentials, or restricted client evidence.
+
+
+# BUG-002 — Product Sorting Does Not Follow the Selected Order
+
+**Record type:** Simulated practice example — Not a verified live defect
+
+## Summary
+
+The inventory page is used to illustrate a scenario in which the displayed product order does not match the sorting option selected by the user.
+
+## Environment
+
+- Application: SauceDemo
+- Module: Inventory
+- Testing type: Functional testing
+- Browser/device: Not recorded for this simulated example
+
+## Preconditions
+
+- User is logged in.
+- Inventory page is displayed.
+- Products are available for sorting.
+
+## Steps to Reproduce
+
+1. Log in to SauceDemo using an available standard test account.
+2. Open the inventory page.
+3. Open the product sorting dropdown.
+4. Select Name (A to Z).
+5. Review the order of the displayed product names.
+
+## Expected Result
+
+Products should appear in alphabetical ascending order based on their displayed names.
+
+## Illustrative Actual Result
+
+For this simulated scenario, the displayed product order does not match alphabetical ascending order.
+
+## Classification
+
+- Severity: Medium — illustrative assessment
+- Priority: P2 — illustrative assessment
+- Related test case: TC-008
+- Status: Example — Not Verified
+- Evidence: None attached
+
+## Notes
+
+This is a practice scenario only. Before reporting it as a real defect, execute the test, record the actual product order, and capture evidence demonstrating the mismatch.
+
+# BUG-003 — Checkout Postal Code Validation Does Not Match Expected Behaviour
+
+**Record type:** Simulated practice example — Not a verified live defect
+
+## Summary
+
+This example describes a checkout validation scenario in which an invalid postal code is accepted when the expected behaviour is to reject it.
+
+## Environment
+
+- Application: SauceDemo
+- Module: Checkout information
+- Testing type: Negative validation testing
+- Browser/device: Not recorded for this simulated example
+
+## Preconditions
+
+- User is logged in.
+- At least one product is in the cart.
+- User has opened the checkout information form.
+
+## Steps to Reproduce
+
+1. Log in to SauceDemo using an available standard test account.
+2. Add a product to the cart.
+3. Open the cart and select Checkout.
+4. Enter a first name and last name.
+5. Enter an invalid postal code.
+6. Select Continue.
+7. Observe the application's response.
+
+## Test Data
+
+- First name: Test
+- Last name: User
+- Postal code: `INVALID`
+
+The values are illustrative practice data.
+
+## Expected Result
+
+The application should validate the postal code according to its defined requirements and display an appropriate validation message when the supplied value is invalid.
+
+## Illustrative Actual Result
+
+For this simulated scenario, the application accepts the invalid postal code and allows the user to proceed.
+
+## Classification
+
+- Severity: Medium — illustrative assessment
+- Priority: P2 — illustrative assessment
+- Related test case: TC-016
+- Status: Example — Not Verified
+- Evidence: None attached
+
+## Notes
+
+The accepted postal-code formats must be checked against the application's requirements before confirming a defect. This example should not be reported as a live finding without execution and evidence.
 
