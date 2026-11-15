@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 69/90
+**QA Engineering Roadmap:** Day 73/90
 
-**Current Topic:** End-to-End Manual Testing Project
+**Current Topic:** QA Portfolio Project — Bug Reports
 **Status:** ✅ Completed
 
-**Next Topic:** QA Portfolio Project — Planning ---
+**Next Topic:** QA Portfolio Project — API Testing ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -139,10 +139,10 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 67 | Defect Metrics & Analysis | ✅ |
 | 68 | Test Closure & Lessons Learned | ✅ |
 | 69 | End-to-End Manual Testing Project | ✅ |
-| 70 | QA Portfolio Project — Planning | ⏳ |
-| 71 | QA Portfolio Project — Test Cases | ⏳ |
-| 72 | QA Portfolio Project — Execution | ⏳ |
-| 73 | QA Portfolio Project — Bug Reports | ⏳ |
+| 70 | QA Portfolio Project — Planning | ✅ |
+| 71 | QA Portfolio Project — Test Cases | ✅ |
+| 72 | QA Portfolio Project — Execution | ✅ |
+| 73 | QA Portfolio Project — Bug Reports | ✅ |
 | 74 | QA Portfolio Project — API Testing | ⏳ |
 | 75 | QA Portfolio Project — Test Summary Report | ⏳ |
 | 76 | QA Portfolio Project — Evidence & Documentation | ⏳ |
