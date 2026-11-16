@@ -1,6 +1,6 @@
 # 🚀 QA Engineering Learning Portfolio
 
-**Last Updated:** November  15, 2026
+**Last Updated:** November  16, 2026
 
 Welcome to my Software Quality Assurance (QA) learning portfolio.
 
@@ -12,12 +12,12 @@ I am combining theory with practical testing exercises, documentation, API testi
 
 # # 📈 Current Progress
 
-**QA Engineering Roadmap:** Day 73/90
+**QA Engineering Roadmap:** Day 76/90
 
-**Current Topic:** QA Portfolio Project — Bug Reports
+**Current Topic:** QA Portfolio Project — Evidence & Documentation
 **Status:** ✅ Completed
 
-**Next Topic:** QA Portfolio Project — API Testing ---
+**Next Topic:** Automation Testing Introduction ---
 
 # 👨‍💻 About Me
 Hi, I'm **Sogo Omolanbe**.
@@ -143,9 +143,9 @@ This roadmap is structured to progressively build my knowledge from QA fundament
 | 71 | QA Portfolio Project — Test Cases | ✅ |
 | 72 | QA Portfolio Project — Execution | ✅ |
 | 73 | QA Portfolio Project — Bug Reports | ✅ |
-| 74 | QA Portfolio Project — API Testing | ⏳ |
-| 75 | QA Portfolio Project — Test Summary Report | ⏳ |
-| 76 | QA Portfolio Project — Evidence & Documentation | ⏳ |
+| 74 | QA Portfolio Project — API Testing | ✅ |
+| 75 | QA Portfolio Project — Test Summary Report | ✅ |
+| 76 | QA Portfolio Project — Evidence & Documentation | ✅ |
 | 77 | Automation Testing Introduction | ⏳ |
 | 78 | Playwright Setup | ⏳ |
 | 79 | Playwright Locators | ⏳ |
