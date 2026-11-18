@@ -20,11 +20,8 @@ I am combining theory with practical testing exercises, documentation, API testi
 **Next Topic:** Playwright setup ---
 
 # 👨‍💻 About Me
-Hi, I'm **Sogo Omolanbe**.
-
-I'm a Frontend Developer transitioning into Software Quality Assurance.
-
-My background in frontend development gives me an understanding of how web applications are built. At the same time, my QA journey focuses on learning how to systematically test applications, identify defects, document issues, and improve software quality.
+I'm Sogo Omolanbe, a Junior QA Engineer. I do crowdsourced testing on uTest and Test IO, and I'm now learning test automation with Playwright.
+I also have a front-end background (HTML, CSS, JavaScript).
 
 I am currently building practical experience through:
 
