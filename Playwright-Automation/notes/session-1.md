@@ -1,8 +1,8 @@
 # Session 1: First Playwright Test
 
-**Date:** ____________
+**Date:**21/11/2026
 **Week / Session:** Week 1 / Session 1 of 12
-**Time spent:** ____ hrs
+**Time spent:** 2 hrs
 **Goal:** Run my first test and understand `test`, `page`, `expect`.
 
 ---
